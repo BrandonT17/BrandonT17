@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on developing projects in Python and C/C++
-- 🌱 I’m currently learning how to build websites with HTML, CSS, and JavaScript
+- 🌱 I’m currently learning Rust and working on an object-oriented programming project
 - 👯 I’m looking to collaborate on any web-applications
 - 🤔 I’m looking for help with finding internships
 - 📫 How to reach me: brandonthach17@gmail.com 
