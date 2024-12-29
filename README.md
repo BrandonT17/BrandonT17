@@ -7,4 +7,4 @@
 - 📫 How to reach me: brandonthach17@gmail.com 
 - ⚡ Fun fact: Java was my first programming language
 
-Languages: Python, Java, C, C++, HTML, CSS, JavaScript
+Languages: Python, Java, C, C++, HTML, CSS, JavaScript, Rust
