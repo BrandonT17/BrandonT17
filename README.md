@@ -1,4 +1,5 @@
-# Brandon Thach | Software Developer 
+# Brandon Thach
+> Software Developer 
 ## University of Illinois Chicago | Class of 2025 | Computer Science
 > Technologies: JavaFX, AngularJS, ReactJS, GoogleTest, Linux, Vim...
 > Languages: Java, C/C++, Python, Golang, SQL, HTML/CSS/JS...
