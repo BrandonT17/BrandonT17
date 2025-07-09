@@ -1,10 +1,4 @@
-## Hi there 👋
-
-- 🔭 I’m currently working an object-oriented programming project in Java
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on any web-applications
-- 🤔 I’m looking for help with finding internships
-- 📫 How to reach me: brandonthach17@gmail.com 
-- ⚡ Fun fact: Java was my first programming language
-
-Languages: Python, Java, C, C++, HTML, CSS, JavaScript, Rust
+# Brandon Thach | Software Developer 
+## University of Illinois Chicago | Class of 2025 | Computer Science
+> Technologies: JavaFX, AngularJS, ReactJS, GoogleTest, Linux, Vim...
+> Languages: Java, C/C++, Python, Golang, SQL, HTML/CSS/JS...
