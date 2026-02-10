@@ -25,7 +25,8 @@ my_interests = [
   "enterprise software development",
   "web security",
   "linux",
-  "open-source software",
+  "neovim",
+  "open-source"
 ]
 ```
 ### ⁉️ Other
