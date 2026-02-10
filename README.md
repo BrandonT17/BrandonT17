@@ -31,5 +31,5 @@ my_interests = [
 ### ⁉️ Other
 ```rust
 let spoken_languages = ["English 🇺🇸", "Spanish 🇲🇽", "Khmer 🇰🇭", "Hindi 🇮🇳"];
-let hobbies = ["muay thai 🥊", "studying languages 📚", "archlinux 💾", "chicken shawarma 🌯"];
+let hobbies = ["muay thai 🥊", "studying languages 📚", "archlinux 💾"];
 ```
