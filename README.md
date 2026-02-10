@@ -1,7 +1,5 @@
 # 🇰🇭🇨🇳 Brandon Meng Thạch 
 
-> 🏠 Chicago, Illinois, USA
-> 
 > 🎓 Computer Science @ University of Illinois Chicago
 
 I'm a **full-stack developer** constantly in pursuit of new knowledge in the realm of software development. I am currently working on my web development skills, particularly backend technologies such as **Node.js** and **Springboot**. I want to develop software that makes people's lives easier, without being too invasive or complicated. My goal is simplicity and effectiveness.
